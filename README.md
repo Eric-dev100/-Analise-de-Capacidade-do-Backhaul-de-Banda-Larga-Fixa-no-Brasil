@@ -9,7 +9,7 @@ Os dados utilizados neste projeto são provenientes de bases abertas:
 * **Diretórios Brasileiros (Base dos Dados):** Tabelas auxiliares contendo informações padronizadas sobre municípios e estados (UFs) para enriquecimento geográfico.
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
-* **Python 3.x**
+* **Python 3.12**
 * **Pandas:** Para manipulação, limpeza e cruzamento de dados (ETL).
 * **NumPy:** Para operações numéricas de suporte.
 * **Matplotlib & Seaborn:** Para a criação de visualizações estatísticas e de negócios.
